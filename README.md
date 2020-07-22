@@ -1,1 +1,2 @@
 # Printinglabel
+print QRCode
